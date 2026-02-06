@@ -1,0 +1,261 @@
+{
+  "version": "2.6",
+  "children": [
+    {
+      "type": "frame",
+      "id": "IJEwF",
+      "x": 40,
+      "y": -156,
+      "name": "Hero",
+      "reusable": true,
+      "clip": true,
+      "width": "fill_container(1200)",
+      "height": "fill_container(800)",
+      "fill": "#fdfdfdff",
+      "stroke": {
+        "align": "inside",
+        "thickness": 1
+      },
+      "layout": "vertical",
+      "gap": 474,
+      "padding": 24,
+      "justifyContent": "space_between",
+      "children": [
+        {
+          "type": "frame",
+          "id": "BQksg",
+          "name": "Frame 2147226767",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "gap": 8,
+          "children": [
+            {
+              "type": "frame",
+              "id": "zgbMa",
+              "name": "Frame 2147226765",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "gap": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "rGEWU",
+                  "name": "Work",
+                  "fill": "#0a0d12ff",
+                  "content": "Work",
+                  "textAlign": "center",
+                  "fontFamily": "Inter",
+                  "fontSize": 16,
+                  "fontWeight": "500",
+                  "letterSpacing": -0.32
+                },
+                {
+                  "type": "frame",
+                  "id": "GB5fZ",
+                  "name": "Frame 2147226766",
+                  "clip": true,
+                  "width": 10,
+                  "height": 10,
+                  "fill": "#0a0d12ff",
+                  "cornerRadius": 999,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "none"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "WZkRl",
+              "name": "Frame 2147226766",
+              "fill": {
+                "type": "color",
+                "color": "#0000000d",
+                "enabled": false
+              },
+              "cornerRadius": 999,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "gap": 4,
+              "padding": [
+                0,
+                9,
+                0,
+                0
+              ],
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "Q0c8z",
+                  "name": "Products",
+                  "fill": "#a4a7aeff",
+                  "content": "Products",
+                  "textAlign": "center",
+                  "fontFamily": "Inter",
+                  "fontSize": 16,
+                  "fontWeight": "500",
+                  "letterSpacing": -0.32
+                },
+                {
+                  "type": "frame",
+                  "id": "h2Lmu",
+                  "name": "Frame 2147226766",
+                  "clip": true,
+                  "width": 10,
+                  "height": 10,
+                  "fill": "#00000000",
+                  "cornerRadius": 999,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "none"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "d5AM5",
+              "name": "Frame 2147226767",
+              "fill": {
+                "type": "color",
+                "color": "#0000000d",
+                "enabled": false
+              },
+              "cornerRadius": 999,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "gap": 4,
+              "padding": [
+                0,
+                9,
+                0,
+                0
+              ],
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "3kzXW",
+                  "name": "Contact",
+                  "fill": "#a4a7aeff",
+                  "content": "Contact",
+                  "textAlign": "center",
+                  "fontFamily": "Inter",
+                  "fontSize": 16,
+                  "fontWeight": "500",
+                  "letterSpacing": -0.32
+                },
+                {
+                  "type": "frame",
+                  "id": "neKfV",
+                  "name": "Frame 2147226766",
+                  "clip": true,
+                  "width": 10,
+                  "height": 10,
+                  "fill": "#00000000",
+                  "cornerRadius": 999,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "layout": "none"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "fOfLz",
+          "name": "Frame 2147226769",
+          "width": "fill_container",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "gap": 240,
+          "alignItems": "end",
+          "children": [
+            {
+              "type": "frame",
+              "id": "8bni6",
+              "name": "Frame 2147226768",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "PQ3bC",
+                  "name": "Rifqi Arkaan",
+                  "fill": "#a4a7aeff",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "Rifqi Arkaan",
+                  "fontFamily": "Inter",
+                  "fontSize": 16,
+                  "fontWeight": "600",
+                  "letterSpacing": -0.16
+                },
+                {
+                  "type": "text",
+                  "id": "711dU",
+                  "name": "Design and shape digital interfaces with a strong focus on usability and visual clarity.",
+                  "fill": "#0a0d12ff",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "Design and shape digital interfaces with a strong focus on usability and visual clarity.",
+                  "lineHeight": 1.2000000476837158,
+                  "fontFamily": "Inter",
+                  "fontSize": 48,
+                  "fontWeight": "500",
+                  "letterSpacing": -1.92
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "7p8Qa",
+              "name": "Frame 2147232039",
+              "width": 240,
+              "height": 159,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "images/hero-image.png",
+                "mode": "fill"
+              },
+              "cornerRadius": 12,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "none"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

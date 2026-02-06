@@ -1,0 +1,910 @@
+{
+  "version": "2.6",
+  "children": [
+    {
+      "type": "frame",
+      "id": "0ghSu",
+      "x": 77,
+      "y": -1558,
+      "name": "Mansory",
+      "clip": true,
+      "width": "fill_container(1200)",
+      "height": "fill_container(2064)",
+      "fill": "#fdfdfdff",
+      "stroke": {
+        "align": "inside",
+        "thickness": 1
+      },
+      "gap": 12,
+      "padding": [
+        80,
+        24
+      ],
+      "justifyContent": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "VcGng",
+          "name": "Frame 2147232045",
+          "width": 376,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "gap": 24,
+          "children": [
+            {
+              "type": "frame",
+              "id": "V2ESw",
+              "name": "Frame 2147226776",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "DgqZE",
+                  "name": "Frame 2147226770",
+                  "clip": true,
+                  "width": "fill_container",
+                  "height": 482,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "../images/Porto 1.png",
+                    "mode": "fill"
+                  },
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#0000000d"
+                  },
+                  "layout": "none"
+                },
+                {
+                  "type": "frame",
+                  "id": "wOTHV",
+                  "name": "Frame 2147226773",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 243,
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "CsGiN",
+                      "name": "Lumina",
+                      "fill": "#414651ff",
+                      "content": "Lumina",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "8U9I9",
+                      "name": "Mobile App",
+                      "fill": "#a4a7aeff",
+                      "content": "Mobile App",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "pAAUh",
+              "name": "Frame 2147226781",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "BYQ2r",
+                  "name": "Frame 2147226771",
+                  "clip": true,
+                  "width": "fill_container",
+                  "height": 376,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "../images/Porto 5.png",
+                    "mode": "fill"
+                  },
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#0000000d"
+                  },
+                  "layout": "none"
+                },
+                {
+                  "type": "frame",
+                  "id": "OoFLO",
+                  "name": "Frame 2147226774",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 243,
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "ADpkR",
+                      "name": "Liquid Reveal Cursor",
+                      "fill": "#414651ff",
+                      "content": "Liquid Reveal Cursor",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "JNopW",
+                      "name": "Framer",
+                      "fill": "#a4a7aeff",
+                      "content": "Framer",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "jhNNq",
+              "name": "Frame 2147226782",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "dvksI",
+                  "name": "Frame 2147226772",
+                  "clip": true,
+                  "width": "fill_container",
+                  "height": 482,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "../images/Porto 12.png",
+                    "mode": "fill"
+                  },
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#0000000d"
+                  },
+                  "layout": "none"
+                },
+                {
+                  "type": "frame",
+                  "id": "Ox9A1",
+                  "name": "Frame 2147226774",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 243,
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "oLIFf",
+                      "name": "Contara",
+                      "fill": "#414651ff",
+                      "content": "Contara",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "FcS8F",
+                      "name": "Branding",
+                      "fill": "#a4a7aeff",
+                      "content": "Branding",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "i3gKu",
+              "name": "Frame 2147226786",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "7psjS",
+                  "name": "Frame 2147226771",
+                  "clip": true,
+                  "width": "fill_container",
+                  "height": 376,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "../images/Porto 6.png",
+                    "mode": "fill"
+                  },
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#0000000d"
+                  },
+                  "layout": "none"
+                },
+                {
+                  "type": "frame",
+                  "id": "JgOu9",
+                  "name": "Frame 2147226774",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 243,
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "8jzq4",
+                      "name": "Zatanna AI",
+                      "fill": "#414651ff",
+                      "content": "Zatanna AI",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "UY8wm",
+                      "name": "Design + Framer Dev",
+                      "fill": "#a4a7aeff",
+                      "content": "Design + Framer Dev",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "wRsJM",
+          "name": "Frame 2147232046",
+          "width": 376,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "gap": 24,
+          "children": [
+            {
+              "type": "frame",
+              "id": "yPerE",
+              "name": "Frame 2147226777",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "zuGB9",
+                  "name": "Frame 2147226771",
+                  "clip": true,
+                  "width": "fill_container",
+                  "height": 376,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "../images/Porto 3.png",
+                    "mode": "fill"
+                  },
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#0000000d"
+                  },
+                  "layout": "none"
+                },
+                {
+                  "type": "frame",
+                  "id": "nf9t3",
+                  "name": "Frame 2147226774",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 243,
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "ngbU9",
+                      "name": "Wear Clair",
+                      "fill": "#414651ff",
+                      "content": "Wear Clair",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "tzbiD",
+                      "name": "Branding",
+                      "fill": "#a4a7aeff",
+                      "content": "Branding",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "uKMkR",
+              "name": "Frame 2147226779",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "GHJl8",
+                  "name": "Frame 2147226772",
+                  "clip": true,
+                  "width": "fill_container",
+                  "height": 482,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "../images/Porto 10.png",
+                    "mode": "fill"
+                  },
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#0000000d"
+                  },
+                  "layout": "none"
+                },
+                {
+                  "type": "frame",
+                  "id": "N7MsP",
+                  "name": "Frame 2147226774",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 243,
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "blrHJ",
+                      "name": "Zingage",
+                      "fill": "#414651ff",
+                      "content": "Zingage",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "bsz7F",
+                      "name": "Design + Framer Dev",
+                      "fill": "#a4a7aeff",
+                      "content": "Design + Framer Dev",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "zhYFn",
+              "name": "Frame 2147226783",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "PNsAV",
+                  "name": "Frame 2147226771",
+                  "clip": true,
+                  "width": "fill_container",
+                  "height": 255,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "../images/Porto 4.png",
+                    "mode": "fill"
+                  },
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#0000000d"
+                  },
+                  "layout": "none"
+                },
+                {
+                  "type": "frame",
+                  "id": "9ur7x",
+                  "name": "Frame 2147226774",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 243,
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "k1eHU",
+                      "name": "Tagged Music",
+                      "fill": "#414651ff",
+                      "content": "Tagged Music",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "ohsZ2",
+                      "name": "Branding",
+                      "fill": "#a4a7aeff",
+                      "content": "Branding",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "ru9dg",
+              "name": "Frame 2147226785",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "TYgqR",
+                  "name": "Frame 2147226772",
+                  "clip": true,
+                  "width": "fill_container",
+                  "height": 482,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "../images/Porto 11.png",
+                    "mode": "fill"
+                  },
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#0000000d"
+                  },
+                  "layout": "none"
+                },
+                {
+                  "type": "frame",
+                  "id": "WoEBH",
+                  "name": "Frame 2147226774",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 243,
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "yaTPd",
+                      "name": "Contara",
+                      "fill": "#414651ff",
+                      "content": "Contara",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "uKGMC",
+                      "name": "Design + Framer Dev",
+                      "fill": "#a4a7aeff",
+                      "content": "Design + Framer Dev",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "DSguh",
+          "name": "Frame 2147232047",
+          "width": 376,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1
+          },
+          "layout": "vertical",
+          "gap": 24,
+          "children": [
+            {
+              "type": "frame",
+              "id": "eMBfR",
+              "name": "Frame 2147226778",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "0Wavl",
+                  "name": "Frame 2147226772",
+                  "clip": true,
+                  "width": "fill_container",
+                  "height": 482,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "../images/Porto 9.png",
+                    "mode": "fill"
+                  },
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#0000000d"
+                  },
+                  "layout": "none"
+                },
+                {
+                  "type": "frame",
+                  "id": "NcOL3",
+                  "name": "Frame 2147226774",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 243,
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "LLhU2",
+                      "name": "Cleansta",
+                      "fill": "#414651ff",
+                      "content": "Cleansta",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "N8b7Q",
+                      "name": "Mobile App",
+                      "fill": "#a4a7aeff",
+                      "content": "Mobile App",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "E3VOy",
+              "name": "Frame 2147226780",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "PWHMx",
+                  "name": "Frame 2147226770",
+                  "clip": true,
+                  "width": "fill_container",
+                  "height": 482,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "../images/Porto 2.png",
+                    "mode": "fill"
+                  },
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#0000000d"
+                  },
+                  "layout": "none"
+                },
+                {
+                  "type": "frame",
+                  "id": "4ce4n",
+                  "name": "Frame 2147226773",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 243,
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "nn3LV",
+                      "name": "Wear Clair",
+                      "fill": "#414651ff",
+                      "content": "Wear Clair",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "9LkCU",
+                      "name": "Branding",
+                      "fill": "#a4a7aeff",
+                      "content": "Branding",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "WH25k",
+              "name": "Frame 2147226784",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "CgvU2",
+                  "name": "Frame 2147226771",
+                  "clip": true,
+                  "width": "fill_container",
+                  "height": 376,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "../images/Porto 7.png",
+                    "mode": "fill"
+                  },
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#0000000d"
+                  },
+                  "layout": "none"
+                },
+                {
+                  "type": "frame",
+                  "id": "WuWhL",
+                  "name": "Frame 2147226774",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 243,
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "5eFhG",
+                      "name": "Ankor",
+                      "fill": "#414651ff",
+                      "content": "Ankor",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "zebPT",
+                      "name": "Design + Framer Dev",
+                      "fill": "#a4a7aeff",
+                      "content": "Design + Framer Dev",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "VZtih",
+              "name": "Frame 2147226787",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "zL2hU",
+                  "name": "Frame 2147226771",
+                  "clip": true,
+                  "width": "fill_container",
+                  "height": 376,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "../images/Porto 8.png",
+                    "mode": "fill"
+                  },
+                  "cornerRadius": 16,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#0000000d"
+                  },
+                  "layout": "none"
+                },
+                {
+                  "type": "frame",
+                  "id": "dGtOd",
+                  "name": "Frame 2147226774",
+                  "width": "fill_container",
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1
+                  },
+                  "gap": 243,
+                  "justifyContent": "space_between",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "PYGP4",
+                      "name": "Lumina",
+                      "fill": "#414651ff",
+                      "content": "Lumina",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    },
+                    {
+                      "type": "text",
+                      "id": "i7etP",
+                      "name": "Mobile App",
+                      "fill": "#a4a7aeff",
+                      "content": "Mobile App",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
