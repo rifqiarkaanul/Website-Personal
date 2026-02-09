@@ -2,7 +2,7 @@
   width: 100%;
   margin: 0 auto;
   align-self: stretch;
-  padding: 80px 218px;
+  padding: 80px 0;
   display: flex;
   flex-direction: column;
   gap: 60px;
@@ -40,7 +40,7 @@
 .about-title {
   margin: 0;
   color: #0a0d12;
-  font-size: 36px;
+  font-size: clamp(28px, 4.4vw, 36px);
   font-weight: 500;
   letter-spacing: -1.44px;
   line-height: 1.2;
@@ -58,7 +58,7 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  gap: 157px;
+  gap: clamp(24px, 8vw, 120px);
 }
 
 .about-year-group {
@@ -89,7 +89,7 @@
 }
 
 .about-detail {
-  width: 473px;
+  width: min(473px, 100%);
   display: flex;
   flex-direction: column;
   gap: 12px;
@@ -98,7 +98,7 @@
 
 .about-role {
   color: #535862;
-  font-size: 16px;
+  font-size: clamp(15px, 2.4vw, 16px);
   font-weight: 400;
   letter-spacing: -0.16px;
 }
@@ -108,7 +108,7 @@
   align-items: center;
   gap: 4px;
   color: #a4a7ae;
-  font-size: 16px;
+  font-size: clamp(15px, 2.4vw, 16px);
   font-weight: 400;
   letter-spacing: -0.16px;
   text-decoration: underline;
@@ -120,7 +120,7 @@
   flex-direction: row;
   gap: 10px;
   align-items: center;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
 
 .about-company-name {
@@ -139,13 +139,13 @@
   opacity: 0.6;
 }
 
-@media (max-width: 1100px) {
+@media (max-width: 810px) {
   .about {
-    padding: 64px 32px;
+    padding: 60px 0;
   }
 
   .about-row {
-    gap: 48px;
+    gap: 16px;
     flex-direction: column;
     align-items: flex-start;
   }
@@ -154,24 +154,43 @@
   .about-header {
     width: 100%;
   }
+
+  .about-multi {
+    row-gap: 8px;
+  }
+
+  .about-year-group {
+    gap: 8px;
+  }
 }
 
-@media (max-width: 640px) {
+@media (max-width: 390px) {
   .about {
-    padding: 48px 20px;
+    padding: 48px 0;
     gap: 40px;
+    content-visibility: visible;
+    contain-intrinsic-size: auto;
   }
 
   .about-row {
-    gap: 16px;
+    gap: 12px;
   }
 
   .about-title {
-    font-size: 30px;
+    font-size: 26px;
     letter-spacing: -1.2px;
   }
 
   .about-detail {
     width: 100%;
+  }
+
+  .about-year {
+    font-size: 15px;
+  }
+
+  .about-badge {
+    font-size: 15px;
+    padding: 6px 10px;
   }
 }

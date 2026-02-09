@@ -10,8 +10,8 @@ function Footer() {
         </div>
 
         <div className={styles.footer__title}>
-          <span className={styles.footer__titleBuilt}>Built</span>
-          <span className={styles.footer__titleCarefully}>Carefully</span>
+          <span className={styles.footer__titleBuilt}>Made</span>
+          <span className={styles.footer__titleCarefully}>With Care</span>
         </div>
       </div>
 
