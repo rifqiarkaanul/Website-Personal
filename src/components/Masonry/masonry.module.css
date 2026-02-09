@@ -134,7 +134,7 @@
     display: grid;
     grid-template-columns: 1fr;
     padding: var(--space-3xl) 0;
-    gap: 24px;
+    gap: 20px;
     justify-content: flex-start;
     content-visibility: visible;
     contain-intrinsic-size: auto;
@@ -144,7 +144,6 @@
     display: contents;
     width: 100%;
     max-width: none;
-    gap: 20px;
   }
 
   .masonry__meta {
