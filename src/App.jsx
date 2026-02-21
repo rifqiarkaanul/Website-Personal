@@ -1,4 +1,5 @@
 import { Routes, Route } from "react-router-dom";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 import Hero from "./components/Hero/Hero";
 import Masonry from "./components/Masonry/Masonry";
 import About from "./components/About/About";
@@ -29,6 +30,7 @@ export default function App() {
         <Route path="/products" element={<Products />} />
         <Route path="/experiments" element={<Experiments />} />
       </Routes>
+      <SpeedInsights />
     </>
   );
 }
